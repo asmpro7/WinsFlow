@@ -1,0 +1,12 @@
+{
+    "ID": "72E67DFE0F6F482395AF3CD0A3BC6F04",
+    "ActionKeyword": "wn",
+    "Name": "WinsFlow",
+    "Description": "Plugin to control your windows",
+    "Author": "Ahmed ElSaeed",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/asmpro7/WinsFlow",
+    "IcoPath": "Images\\app.png",
+    "ExecuteFileName": "main.py"
+}
